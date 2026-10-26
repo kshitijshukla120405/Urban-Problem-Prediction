@@ -1,0 +1,201 @@
+image_id,split,file_name,timestamp,latitude,longitude,altitude_m,vehicle_speed_kmh,road_name,ward_name,pavement_type,lighting_condition,true_potholes,max_severity,is_hard_negative
+rdd_train_0000,train,rdd_train_0000.jpg,2026-10-25T14:22:29Z,19.076418,72.878018,19.6,55.1,Western Express Highway,Ward H-East,Asphalt Concrete,daylight,1,52.2,False
+rdd_train_0001,train,rdd_train_0001.jpg,2026-10-25T17:10:35Z,19.077137,72.877968,21.8,51.3,Western Express Highway,Ward H-East,Asphalt Concrete,daylight,2,62.3,False
+rdd_train_0002,train,rdd_train_0002.jpg,2026-10-25T13:43:15Z,19.113355,72.899397,14.6,46.9,Western Express Highway,Ward H-East,Asphalt Concrete,wet,2,14.2,False
+rdd_train_0003,train,rdd_train_0003.jpg,2026-10-25T09:04:25Z,19.113964,72.899659,9.3,39.1,SV Road Corridor,Ward K-West,Bituminous Macadam,dusk,1,23.6,False
+rdd_train_0004,train,rdd_train_0004.jpg,2026-10-25T09:35:10Z,19.114771,72.899902,11.9,35.6,SV Road Corridor,Ward K-West,Bituminous Macadam,daylight,1,62.4,False
+rdd_train_0005,train,rdd_train_0005.jpg,2026-10-25T17:51:18Z,19.115342,72.900173,15.0,32.1,SV Road Corridor,Ward K-West,Bituminous Macadam,dusk,0,0.0,True
+rdd_train_0006,train,rdd_train_0006.jpg,2026-10-25T12:33:22Z,19.116373,72.900408,27.0,31.6,SV Road Corridor,Ward K-West,Bituminous Macadam,daylight,2,54.1,False
+rdd_train_0007,train,rdd_train_0007.jpg,2026-10-25T12:19:21Z,19.117089,72.900603,10.4,30.4,SV Road Corridor,Ward K-West,Bituminous Macadam,daylight,1,58.3,False
+rdd_train_0008,train,rdd_train_0008.jpg,2026-10-25T10:39:47Z,19.117699,72.900397,22.3,38.6,SV Road Corridor,Ward K-West,Bituminous Macadam,daylight,0,0.0,True
+rdd_train_0009,train,rdd_train_0009.jpg,2026-10-25T17:05:17Z,19.032422,72.853938,14.0,21.9,SV Road Corridor,Ward K-West,Bituminous Macadam,daylight,1,18.8,False
+rdd_train_0010,train,rdd_train_0010.jpg,2026-10-25T14:07:49Z,19.03325,72.853991,11.6,43.9,Linking Road,Ward H-West,Bituminous Surface,dusk,0,0.0,True
+rdd_train_0011,train,rdd_train_0011.jpg,2026-10-25T10:57:21Z,19.034236,72.853972,25.5,35.4,Linking Road,Ward H-West,Bituminous Surface,wet,2,19.2,False
+rdd_train_0012,train,rdd_train_0012.jpg,2026-10-25T08:52:26Z,19.035259,72.854341,27.2,30.3,Linking Road,Ward H-West,Bituminous Surface,overcast,1,38.0,False
+rdd_train_0013,train,rdd_train_0013.jpg,2026-10-25T17:43:29Z,19.036012,72.85473,21.7,36.7,Linking Road,Ward H-West,Bituminous Surface,wet,1,49.4,False
+rdd_train_0014,train,rdd_train_0014.jpg,2026-10-25T12:25:35Z,19.036605,72.854919,17.8,21.3,Linking Road,Ward H-West,Bituminous Surface,daylight,1,77.2,False
+rdd_train_0015,train,rdd_train_0015.jpg,2026-10-25T11:36:07Z,19.037046,72.855002,27.7,32.8,Linking Road,Ward H-West,Bituminous Surface,overcast,1,28.8,False
+rdd_train_0016,train,rdd_train_0016.jpg,2026-10-25T11:35:59Z,19.037515,72.855229,12.2,26.5,Linking Road,Ward H-West,Bituminous Surface,daylight,2,95.6,False
+rdd_train_0017,train,rdd_train_0017.jpg,2026-10-25T13:00:28Z,19.110056,72.854561,14.1,35.7,Linking Road,Ward H-West,Bituminous Surface,daylight,3,80.5,False
+rdd_train_0018,train,rdd_train_0018.jpg,2026-10-25T13:00:23Z,19.110856,72.854687,9.4,32.4,LBS Marg Arterial,Ward S,Dense Bituminous,wet,1,40.6,False
+rdd_train_0019,train,rdd_train_0019.jpg,2026-10-25T12:26:08Z,19.111664,72.854664,19.3,29.5,LBS Marg Arterial,Ward S,Dense Bituminous,daylight,1,22.1,False
+rdd_train_0020,train,rdd_train_0020.jpg,2026-10-25T14:10:04Z,19.112465,72.85468,19.5,48.1,LBS Marg Arterial,Ward S,Dense Bituminous,dusk,2,72.1,False
+rdd_train_0021,train,rdd_train_0021.jpg,2026-10-25T15:56:45Z,19.113616,72.854983,12.7,37.3,LBS Marg Arterial,Ward S,Dense Bituminous,overcast,1,69.2,False
+rdd_train_0022,train,rdd_train_0022.jpg,2026-10-25T12:17:55Z,19.1142,72.855087,17.0,39.2,LBS Marg Arterial,Ward S,Dense Bituminous,dusk,1,55.4,False
+rdd_train_0023,train,rdd_train_0023.jpg,2026-10-25T17:28:21Z,19.110588,72.859184,13.3,27.4,LBS Marg Arterial,Ward S,Dense Bituminous,overcast,0,0.0,True
+rdd_train_0024,train,rdd_train_0024.jpg,2026-10-25T11:15:34Z,19.111016,72.859121,14.6,15.8,Industrial Link Rd,Ward M-East,Flexible Pavement,daylight,1,26.8,False
+rdd_train_0025,train,rdd_train_0025.jpg,2026-10-25T09:58:39Z,19.038511,72.849082,31.4,16.0,Industrial Link Rd,Ward M-East,Flexible Pavement,daylight,2,64.5,False
+rdd_train_0026,train,rdd_train_0026.jpg,2026-10-25T16:06:13Z,19.039551,72.8493,10.4,52.3,Western Express Highway,Ward H-East,Asphalt Concrete,daylight,1,44.6,False
+rdd_train_0027,train,rdd_train_0027.jpg,2026-10-25T11:03:35Z,19.040729,72.849768,22.0,58.1,Western Express Highway,Ward H-East,Asphalt Concrete,overcast,2,79.7,False
+rdd_train_0028,train,rdd_train_0028.jpg,2026-10-25T10:41:59Z,19.041623,72.849655,12.9,45.4,Western Express Highway,Ward H-East,Asphalt Concrete,wet,1,61.0,False
+rdd_train_0029,train,rdd_train_0029.jpg,2026-10-25T12:56:04Z,19.042593,72.849487,27.5,43.5,Western Express Highway,Ward H-East,Asphalt Concrete,dusk,2,64.7,False
+rdd_train_0030,train,rdd_train_0030.jpg,2026-10-25T08:52:51Z,19.043334,72.84992,30.0,49.3,Western Express Highway,Ward H-East,Asphalt Concrete,daylight,1,75.5,False
+rdd_train_0031,train,rdd_train_0031.jpg,2026-10-25T16:10:35Z,19.044278,72.850316,12.4,46.9,Western Express Highway,Ward H-East,Asphalt Concrete,daylight,1,17.5,False
+rdd_train_0032,train,rdd_train_0032.jpg,2026-10-25T17:42:30Z,19.119028,72.890999,20.0,42.6,Western Express Highway,Ward H-East,Asphalt Concrete,daylight,2,56.9,False
+rdd_train_0033,train,rdd_train_0033.jpg,2026-10-25T14:11:23Z,19.11969,72.891381,24.1,27.1,SV Road Corridor,Ward K-West,Bituminous Macadam,dusk,0,0.0,True
+rdd_train_0034,train,rdd_train_0034.jpg,2026-10-25T10:05:13Z,19.120568,72.891553,17.1,28.3,SV Road Corridor,Ward K-West,Bituminous Macadam,dusk,2,76.7,False
+rdd_train_0035,train,rdd_train_0035.jpg,2026-10-25T11:16:43Z,19.121701,72.891295,31.9,35.0,SV Road Corridor,Ward K-West,Bituminous Macadam,daylight,0,0.0,True
+rdd_train_0036,train,rdd_train_0036.jpg,2026-10-25T11:29:03Z,19.122447,72.891202,18.5,35.2,SV Road Corridor,Ward K-West,Bituminous Macadam,wet,1,79.7,False
+rdd_train_0037,train,rdd_train_0037.jpg,2026-10-25T08:13:40Z,19.123354,72.891634,10.5,24.1,SV Road Corridor,Ward K-West,Bituminous Macadam,dusk,0,0.0,True
+rdd_train_0038,train,rdd_train_0038.jpg,2026-10-25T13:48:44Z,19.098713,72.910479,20.1,32.1,SV Road Corridor,Ward K-West,Bituminous Macadam,dusk,2,63.6,False
+rdd_train_0039,train,rdd_train_0039.jpg,2026-10-25T11:10:06Z,19.099128,72.910867,17.8,39.6,Linking Road,Ward H-West,Bituminous Surface,daylight,1,16.6,False
+rdd_train_0040,train,rdd_train_0040.jpg,2026-10-25T16:53:20Z,19.100304,72.911156,29.2,32.4,Linking Road,Ward H-West,Bituminous Surface,wet,1,23.6,False
+rdd_train_0041,train,rdd_train_0041.jpg,2026-10-25T17:18:51Z,19.100985,72.910857,17.1,26.1,Linking Road,Ward H-West,Bituminous Surface,overcast,1,64.8,False
+rdd_train_0042,train,rdd_train_0042.jpg,2026-10-25T14:03:29Z,19.101667,72.910975,12.2,20.6,Linking Road,Ward H-West,Bituminous Surface,daylight,1,58.6,False
+rdd_train_0043,train,rdd_train_0043.jpg,2026-10-25T17:12:37Z,19.102856,72.911077,12.0,24.7,Linking Road,Ward H-West,Bituminous Surface,daylight,1,61.1,False
+rdd_train_0044,train,rdd_train_0044.jpg,2026-10-25T14:56:24Z,19.103839,72.911203,20.4,32.4,Linking Road,Ward H-West,Bituminous Surface,wet,1,59.1,False
+rdd_train_0045,train,rdd_train_0045.jpg,2026-10-25T13:49:56Z,19.104661,72.910981,29.4,30.7,Linking Road,Ward H-West,Bituminous Surface,daylight,0,0.0,True
+rdd_train_0046,train,rdd_train_0046.jpg,2026-10-25T11:02:20Z,19.105205,72.910957,12.6,24.3,Linking Road,Ward H-West,Bituminous Surface,wet,2,27.0,False
+rdd_train_0047,train,rdd_train_0047.jpg,2026-10-25T09:27:53Z,19.051459,72.91342,27.0,30.3,Linking Road,Ward H-West,Bituminous Surface,wet,3,65.0,False
+rdd_train_0048,train,rdd_train_0048.jpg,2026-10-25T12:45:08Z,19.089798,72.877428,29.6,30.1,LBS Marg Arterial,Ward S,Dense Bituminous,dusk,0,0.0,True
+rdd_train_0049,train,rdd_train_0049.jpg,2026-10-25T13:03:11Z,19.090234,72.877911,23.8,20.1,Industrial Link Rd,Ward M-East,Flexible Pavement,daylight,1,27.2,False
+rdd_train_0050,train,rdd_train_0050.jpg,2026-10-25T15:36:39Z,19.090869,72.878241,31.9,13.6,Industrial Link Rd,Ward M-East,Flexible Pavement,overcast,0,0.0,True
+rdd_train_0051,train,rdd_train_0051.jpg,2026-10-25T16:54:05Z,19.091751,72.878295,9.6,14.1,Industrial Link Rd,Ward M-East,Flexible Pavement,daylight,1,89.1,False
+rdd_train_0052,train,rdd_train_0052.jpg,2026-10-25T13:55:16Z,19.060807,72.885506,12.5,20.1,Industrial Link Rd,Ward M-East,Flexible Pavement,overcast,0,0.0,True
+rdd_train_0053,train,rdd_train_0053.jpg,2026-10-25T12:40:02Z,19.061867,72.885651,15.7,49.7,Western Express Highway,Ward H-East,Asphalt Concrete,daylight,3,70.5,False
+rdd_train_0054,train,rdd_train_0054.jpg,2026-10-25T16:29:31Z,19.026635,72.878679,27.6,46.0,Western Express Highway,Ward H-East,Asphalt Concrete,daylight,1,58.5,False
+rdd_train_0055,train,rdd_train_0055.jpg,2026-10-25T17:53:10Z,19.095813,72.869747,11.6,29.2,SV Road Corridor,Ward K-West,Bituminous Macadam,dusk,2,31.5,False
+rdd_train_0056,train,rdd_train_0056.jpg,2026-10-25T17:02:40Z,19.096305,72.869963,10.0,19.8,Linking Road,Ward H-West,Bituminous Surface,daylight,1,56.8,False
+rdd_train_0057,train,rdd_train_0057.jpg,2026-10-25T11:14:00Z,19.095877,72.905443,26.8,30.5,Linking Road,Ward H-West,Bituminous Surface,dusk,1,70.4,False
+rdd_train_0058,train,rdd_train_0058.jpg,2026-10-25T17:06:19Z,19.09683,72.905887,10.9,28.6,LBS Marg Arterial,Ward S,Dense Bituminous,daylight,3,43.6,False
+rdd_train_0059,train,rdd_train_0059.jpg,2026-10-25T16:19:08Z,19.097482,72.906382,19.5,32.0,LBS Marg Arterial,Ward S,Dense Bituminous,wet,3,66.9,False
+rdd_train_0060,train,rdd_train_0060.jpg,2026-10-25T15:17:06Z,19.098637,72.906386,18.7,28.3,LBS Marg Arterial,Ward S,Dense Bituminous,wet,2,30.4,False
+rdd_train_0061,train,rdd_train_0061.jpg,2026-10-25T14:48:28Z,19.099231,72.906442,21.6,36.3,LBS Marg Arterial,Ward S,Dense Bituminous,daylight,2,81.6,False
+rdd_train_0062,train,rdd_train_0062.jpg,2026-10-25T14:18:15Z,19.100293,72.906307,17.8,52.8,LBS Marg Arterial,Ward S,Dense Bituminous,overcast,1,27.1,False
+rdd_train_0063,train,rdd_train_0063.jpg,2026-10-25T17:51:23Z,19.066482,72.879134,31.8,30.6,LBS Marg Arterial,Ward S,Dense Bituminous,overcast,2,77.0,False
+rdd_train_0064,train,rdd_train_0064.jpg,2026-10-25T14:33:31Z,19.066993,72.878891,15.6,25.4,Industrial Link Rd,Ward M-East,Flexible Pavement,wet,1,35.5,False
+rdd_train_0065,train,rdd_train_0065.jpg,2026-10-25T12:46:47Z,19.067831,72.878842,13.3,23.6,Industrial Link Rd,Ward M-East,Flexible Pavement,overcast,2,89.1,False
+rdd_train_0066,train,rdd_train_0066.jpg,2026-10-25T08:10:42Z,19.068491,72.87855,30.2,26.0,Industrial Link Rd,Ward M-East,Flexible Pavement,overcast,1,44.1,False
+rdd_train_0067,train,rdd_train_0067.jpg,2026-10-25T12:36:42Z,19.069638,72.878669,26.7,21.0,Industrial Link Rd,Ward M-East,Flexible Pavement,dusk,1,67.3,False
+rdd_train_0068,train,rdd_train_0068.jpg,2026-10-25T15:51:19Z,19.038924,72.902229,19.5,30.9,Industrial Link Rd,Ward M-East,Flexible Pavement,daylight,2,71.7,False
+rdd_train_0069,train,rdd_train_0069.jpg,2026-10-25T15:36:27Z,19.039884,72.902004,10.8,54.9,Western Express Highway,Ward H-East,Asphalt Concrete,overcast,1,19.6,False
+rdd_train_0070,train,rdd_train_0070.jpg,2026-10-25T11:49:32Z,19.040755,72.902353,9.8,55.9,Western Express Highway,Ward H-East,Asphalt Concrete,dusk,0,0.0,True
+rdd_train_0071,train,rdd_train_0071.jpg,2026-10-25T16:09:16Z,19.041746,72.902191,28.6,39.8,Western Express Highway,Ward H-East,Asphalt Concrete,daylight,1,51.9,False
+rdd_train_0072,train,rdd_train_0072.jpg,2026-10-25T15:02:37Z,19.042528,72.901898,12.7,53.7,Western Express Highway,Ward H-East,Asphalt Concrete,dusk,1,82.5,False
+rdd_train_0073,train,rdd_train_0073.jpg,2026-10-25T11:26:44Z,19.043342,72.902227,15.3,41.4,Western Express Highway,Ward H-East,Asphalt Concrete,daylight,3,71.3,False
+rdd_train_0074,train,rdd_train_0074.jpg,2026-10-25T15:03:11Z,19.044006,72.90207,17.6,54.3,Western Express Highway,Ward H-East,Asphalt Concrete,wet,1,69.8,False
+rdd_train_0075,train,rdd_train_0075.jpg,2026-10-25T12:25:25Z,19.045108,72.902274,18.8,47.1,Western Express Highway,Ward H-East,Asphalt Concrete,dusk,0,0.0,True
+rdd_train_0076,train,rdd_train_0076.jpg,2026-10-25T15:09:08Z,19.10351,72.85164,26.9,47.2,Western Express Highway,Ward H-East,Asphalt Concrete,daylight,1,70.1,False
+rdd_train_0077,train,rdd_train_0077.jpg,2026-10-25T16:41:28Z,19.104529,72.851901,31.4,41.4,SV Road Corridor,Ward K-West,Bituminous Macadam,overcast,2,38.3,False
+rdd_train_0078,train,rdd_train_0078.jpg,2026-10-25T11:52:19Z,19.105336,72.851929,26.2,32.2,SV Road Corridor,Ward K-West,Bituminous Macadam,daylight,1,87.9,False
+rdd_train_0079,train,rdd_train_0079.jpg,2026-10-25T13:55:56Z,19.105958,72.851814,9.6,41.5,SV Road Corridor,Ward K-West,Bituminous Macadam,dusk,0,0.0,True
+rdd_train_0080,train,rdd_train_0080.jpg,2026-10-25T13:24:44Z,19.046113,72.878788,28.6,30.8,SV Road Corridor,Ward K-West,Bituminous Macadam,daylight,1,25.1,False
+rdd_train_0081,train,rdd_train_0081.jpg,2026-10-25T12:00:59Z,19.046914,72.879253,30.2,33.5,Linking Road,Ward H-West,Bituminous Surface,daylight,2,50.1,False
+rdd_train_0082,train,rdd_train_0082.jpg,2026-10-25T14:35:58Z,19.047675,72.879113,25.4,16.0,Linking Road,Ward H-West,Bituminous Surface,daylight,2,57.2,False
+rdd_train_0083,train,rdd_train_0083.jpg,2026-10-25T15:38:03Z,19.113538,72.908234,14.7,36.6,Linking Road,Ward H-West,Bituminous Surface,daylight,1,13.1,False
+rdd_train_0084,train,rdd_train_0084.jpg,2026-10-25T15:40:38Z,19.114302,72.907999,12.4,40.1,LBS Marg Arterial,Ward S,Dense Bituminous,wet,1,30.4,False
+rdd_train_0085,train,rdd_train_0085.jpg,2026-10-25T08:57:34Z,19.115417,72.907714,26.6,32.5,LBS Marg Arterial,Ward S,Dense Bituminous,daylight,3,53.1,False
+rdd_train_0086,train,rdd_train_0086.jpg,2026-10-25T08:43:01Z,19.116509,72.907613,8.8,25.5,LBS Marg Arterial,Ward S,Dense Bituminous,daylight,1,72.3,False
+rdd_train_0087,train,rdd_train_0087.jpg,2026-10-25T14:40:30Z,19.117418,72.907788,25.7,20.6,LBS Marg Arterial,Ward S,Dense Bituminous,daylight,2,41.3,False
+rdd_train_0088,train,rdd_train_0088.jpg,2026-10-25T13:12:00Z,19.11826,72.907989,22.8,35.2,LBS Marg Arterial,Ward S,Dense Bituminous,daylight,2,94.8,False
+rdd_train_0089,train,rdd_train_0089.jpg,2026-10-25T16:35:06Z,19.118779,72.908451,17.9,35.5,LBS Marg Arterial,Ward S,Dense Bituminous,daylight,1,72.6,False
+rdd_train_0090,train,rdd_train_0090.jpg,2026-10-25T16:52:13Z,19.119196,72.908787,26.7,28.7,LBS Marg Arterial,Ward S,Dense Bituminous,daylight,0,0.0,True
+rdd_train_0091,train,rdd_train_0091.jpg,2026-10-25T10:31:09Z,19.12032,72.90906,13.8,37.1,LBS Marg Arterial,Ward S,Dense Bituminous,wet,0,0.0,True
+rdd_train_0092,train,rdd_train_0092.jpg,2026-10-25T14:54:03Z,19.120927,72.908975,20.6,45.3,LBS Marg Arterial,Ward S,Dense Bituminous,daylight,1,17.1,False
+rdd_train_0093,train,rdd_train_0093.jpg,2026-10-25T12:48:34Z,19.121772,72.909422,22.2,34.6,LBS Marg Arterial,Ward S,Dense Bituminous,dusk,2,92.0,False
+rdd_train_0094,train,rdd_train_0094.jpg,2026-10-25T10:13:43Z,19.122648,72.909555,31.0,34.9,LBS Marg Arterial,Ward S,Dense Bituminous,overcast,0,0.0,True
+rdd_train_0095,train,rdd_train_0095.jpg,2026-10-25T14:48:54Z,19.12315,72.909657,31.7,33.5,LBS Marg Arterial,Ward S,Dense Bituminous,wet,1,44.9,False
+rdd_train_0096,train,rdd_train_0096.jpg,2026-10-25T08:32:45Z,19.123645,72.909824,10.7,38.6,LBS Marg Arterial,Ward S,Dense Bituminous,dusk,1,25.0,False
+rdd_train_0097,train,rdd_train_0097.jpg,2026-10-25T09:15:41Z,19.124452,72.909682,13.8,31.7,LBS Marg Arterial,Ward S,Dense Bituminous,dusk,1,66.1,False
+rdd_train_0098,train,rdd_train_0098.jpg,2026-10-25T10:05:49Z,19.125602,72.909936,14.6,38.9,LBS Marg Arterial,Ward S,Dense Bituminous,dusk,2,85.1,False
+rdd_train_0099,train,rdd_train_0099.jpg,2026-10-25T10:09:30Z,19.126531,72.910296,9.2,28.6,LBS Marg Arterial,Ward S,Dense Bituminous,wet,2,57.1,False
+rdd_train_0100,train,rdd_train_0100.jpg,2026-10-25T17:58:43Z,19.126972,72.910207,23.5,42.4,LBS Marg Arterial,Ward S,Dense Bituminous,wet,0,0.0,True
+rdd_train_0101,train,rdd_train_0101.jpg,2026-10-25T10:58:11Z,19.128165,72.910549,24.0,25.9,LBS Marg Arterial,Ward S,Dense Bituminous,daylight,1,21.2,False
+rdd_train_0102,train,rdd_train_0102.jpg,2026-10-25T11:31:16Z,19.129056,72.910937,20.6,31.9,LBS Marg Arterial,Ward S,Dense Bituminous,daylight,0,0.0,True
+rdd_train_0103,train,rdd_train_0103.jpg,2026-10-25T15:53:17Z,19.1301,72.911156,28.4,40.1,LBS Marg Arterial,Ward S,Dense Bituminous,dusk,2,52.4,False
+rdd_train_0104,train,rdd_train_0104.jpg,2026-10-25T08:25:42Z,19.130616,72.910896,8.6,32.5,LBS Marg Arterial,Ward S,Dense Bituminous,daylight,3,49.2,False
+rdd_train_0105,train,rdd_train_0105.jpg,2026-10-25T14:47:42Z,19.121091,72.876701,17.5,34.7,LBS Marg Arterial,Ward S,Dense Bituminous,dusk,1,75.1,False
+rdd_train_0106,train,rdd_train_0106.jpg,2026-10-25T16:28:57Z,19.122099,72.877164,19.9,14.2,Industrial Link Rd,Ward M-East,Flexible Pavement,overcast,1,45.2,False
+rdd_train_0107,train,rdd_train_0107.jpg,2026-10-25T15:53:14Z,19.122574,72.877451,13.8,28.6,Industrial Link Rd,Ward M-East,Flexible Pavement,wet,1,53.1,False
+rdd_train_0108,train,rdd_train_0108.jpg,2026-10-25T17:02:11Z,19.12324,72.877329,14.3,19.8,Industrial Link Rd,Ward M-East,Flexible Pavement,dusk,0,0.0,True
+rdd_train_0109,train,rdd_train_0109.jpg,2026-10-25T12:50:43Z,19.124219,72.877823,9.8,19.5,Industrial Link Rd,Ward M-East,Flexible Pavement,wet,2,69.4,False
+rdd_train_0110,train,rdd_train_0110.jpg,2026-10-25T15:24:48Z,19.124968,72.878108,11.0,37.2,Industrial Link Rd,Ward M-East,Flexible Pavement,daylight,3,87.7,False
+rdd_train_0111,train,rdd_train_0111.jpg,2026-10-25T16:07:09Z,19.125858,72.878179,26.0,27.6,Industrial Link Rd,Ward M-East,Flexible Pavement,daylight,1,59.8,False
+rdd_train_0112,train,rdd_train_0112.jpg,2026-10-25T10:17:34Z,19.126979,72.878248,9.3,24.1,Industrial Link Rd,Ward M-East,Flexible Pavement,wet,1,65.4,False
+rdd_train_0113,train,rdd_train_0113.jpg,2026-10-25T12:42:08Z,19.127838,72.878439,26.2,28.7,Industrial Link Rd,Ward M-East,Flexible Pavement,daylight,1,14.0,False
+rdd_train_0114,train,rdd_train_0114.jpg,2026-10-25T11:57:28Z,19.128501,72.878231,12.1,23.4,Industrial Link Rd,Ward M-East,Flexible Pavement,overcast,2,70.0,False
+rdd_train_0115,train,rdd_train_0115.jpg,2026-10-25T08:04:07Z,19.128964,72.878612,19.0,20.1,Industrial Link Rd,Ward M-East,Flexible Pavement,overcast,3,90.1,False
+rdd_train_0116,train,rdd_train_0116.jpg,2026-10-25T15:55:18Z,19.129874,72.878579,19.8,19.2,Industrial Link Rd,Ward M-East,Flexible Pavement,dusk,1,24.4,False
+rdd_train_0117,train,rdd_train_0117.jpg,2026-10-25T12:55:19Z,19.130569,72.878313,14.6,26.3,Industrial Link Rd,Ward M-East,Flexible Pavement,dusk,2,55.8,False
+rdd_train_0118,train,rdd_train_0118.jpg,2026-10-25T08:50:45Z,19.131453,72.878497,20.0,15.7,Industrial Link Rd,Ward M-East,Flexible Pavement,dusk,1,42.7,False
+rdd_train_0119,train,rdd_train_0119.jpg,2026-10-25T16:57:53Z,19.131952,72.878516,25.9,27.3,Industrial Link Rd,Ward M-East,Flexible Pavement,overcast,1,59.8,False
+rdd_train_0120,train,rdd_train_0120.jpg,2026-10-25T12:48:36Z,19.132765,72.878404,28.4,24.1,Industrial Link Rd,Ward M-East,Flexible Pavement,daylight,0,0.0,True
+rdd_train_0121,train,rdd_train_0121.jpg,2026-10-25T11:19:07Z,19.117985,72.882505,29.6,14.4,Industrial Link Rd,Ward M-East,Flexible Pavement,overcast,1,21.6,False
+rdd_train_0122,train,rdd_train_0122.jpg,2026-10-25T13:50:43Z,19.118769,72.882984,8.9,43.2,Western Express Highway,Ward H-East,Asphalt Concrete,dusk,1,25.0,False
+rdd_train_0123,train,rdd_train_0123.jpg,2026-10-25T11:32:54Z,19.119816,72.883177,30.5,45.2,Western Express Highway,Ward H-East,Asphalt Concrete,daylight,0,0.0,True
+rdd_train_0124,train,rdd_train_0124.jpg,2026-10-25T11:28:47Z,19.120368,72.883173,13.7,43.4,Western Express Highway,Ward H-East,Asphalt Concrete,dusk,0,0.0,True
+rdd_train_0125,train,rdd_train_0125.jpg,2026-10-25T08:50:49Z,19.120889,72.883442,14.9,50.8,Western Express Highway,Ward H-East,Asphalt Concrete,daylight,0,0.0,True
+rdd_train_0126,train,rdd_train_0126.jpg,2026-10-25T16:06:49Z,19.122008,72.883643,23.0,43.3,Western Express Highway,Ward H-East,Asphalt Concrete,daylight,3,68.3,False
+rdd_train_0127,train,rdd_train_0127.jpg,2026-10-25T17:29:14Z,19.122807,72.883635,11.7,41.4,Western Express Highway,Ward H-East,Asphalt Concrete,overcast,1,39.5,False
+rdd_train_0128,train,rdd_train_0128.jpg,2026-10-25T15:33:02Z,19.123349,72.883802,23.1,57.0,Western Express Highway,Ward H-East,Asphalt Concrete,daylight,1,70.2,False
+rdd_train_0129,train,rdd_train_0129.jpg,2026-10-25T17:54:34Z,19.123864,72.883919,17.8,50.8,Western Express Highway,Ward H-East,Asphalt Concrete,wet,2,45.7,False
+rdd_train_0130,train,rdd_train_0130.jpg,2026-10-25T14:53:29Z,19.043852,72.859815,21.7,50.5,Western Express Highway,Ward H-East,Asphalt Concrete,overcast,2,80.2,False
+rdd_train_0131,train,rdd_train_0131.jpg,2026-10-25T16:04:54Z,19.04498,72.860241,17.6,37.3,SV Road Corridor,Ward K-West,Bituminous Macadam,dusk,2,24.8,False
+rdd_train_0132,train,rdd_train_0132.jpg,2026-10-25T14:30:02Z,19.045434,72.860398,19.5,37.1,SV Road Corridor,Ward K-West,Bituminous Macadam,daylight,1,43.0,False
+rdd_train_0133,train,rdd_train_0133.jpg,2026-10-25T14:54:55Z,19.046138,72.860588,27.8,24.2,SV Road Corridor,Ward K-West,Bituminous Macadam,overcast,2,74.2,False
+rdd_train_0134,train,rdd_train_0134.jpg,2026-10-25T09:21:16Z,19.080571,72.844249,24.2,24.0,SV Road Corridor,Ward K-West,Bituminous Macadam,daylight,1,67.6,False
+rdd_train_0135,train,rdd_train_0135.jpg,2026-10-25T15:14:00Z,19.081323,72.844726,25.8,27.1,Linking Road,Ward H-West,Bituminous Surface,dusk,2,71.1,False
+rdd_train_0136,train,rdd_train_0136.jpg,2026-10-25T10:21:32Z,19.082517,72.845024,15.6,19.1,Linking Road,Ward H-West,Bituminous Surface,overcast,1,22.6,False
+rdd_train_0137,train,rdd_train_0137.jpg,2026-10-25T15:59:59Z,19.0836,72.844737,27.4,28.7,Linking Road,Ward H-West,Bituminous Surface,wet,1,59.4,False
+rdd_train_0138,train,rdd_train_0138.jpg,2026-10-25T09:43:22Z,19.084388,72.845162,28.3,31.5,Linking Road,Ward H-West,Bituminous Surface,wet,1,45.5,False
+rdd_train_0139,train,rdd_train_0139.jpg,2026-10-25T10:15:04Z,19.084922,72.845485,28.8,27.5,Linking Road,Ward H-West,Bituminous Surface,daylight,0,0.0,True
+rdd_train_0140,train,rdd_train_0140.jpg,2026-10-25T11:34:10Z,19.06461,72.914352,18.3,26.9,Linking Road,Ward H-West,Bituminous Surface,dusk,1,66.0,False
+rdd_train_0141,train,rdd_train_0141.jpg,2026-10-25T10:29:28Z,19.065361,72.914345,19.5,34.7,LBS Marg Arterial,Ward S,Dense Bituminous,daylight,1,36.7,False
+rdd_train_0142,train,rdd_train_0142.jpg,2026-10-25T08:22:12Z,19.066284,72.914452,25.0,38.7,LBS Marg Arterial,Ward S,Dense Bituminous,daylight,0,0.0,True
+rdd_train_0143,train,rdd_train_0143.jpg,2026-10-25T15:18:57Z,19.066925,72.914467,26.3,31.5,LBS Marg Arterial,Ward S,Dense Bituminous,wet,3,80.2,False
+rdd_train_0144,train,rdd_train_0144.jpg,2026-10-25T12:44:41Z,19.067374,72.914472,21.0,25.0,LBS Marg Arterial,Ward S,Dense Bituminous,wet,2,38.0,False
+rdd_train_0145,train,rdd_train_0145.jpg,2026-10-25T09:27:44Z,19.068123,72.914672,15.3,25.4,LBS Marg Arterial,Ward S,Dense Bituminous,overcast,1,48.4,False
+rdd_train_0146,train,rdd_train_0146.jpg,2026-10-25T17:05:48Z,19.069305,72.915003,20.2,38.4,LBS Marg Arterial,Ward S,Dense Bituminous,dusk,2,45.0,False
+rdd_train_0147,train,rdd_train_0147.jpg,2026-10-25T08:58:58Z,19.050143,72.903858,31.8,30.4,LBS Marg Arterial,Ward S,Dense Bituminous,daylight,1,62.0,False
+rdd_train_0148,train,rdd_train_0148.jpg,2026-10-25T15:34:15Z,19.029196,72.905672,31.4,31.3,Industrial Link Rd,Ward M-East,Flexible Pavement,wet,1,37.1,False
+rdd_train_0149,train,rdd_train_0149.jpg,2026-10-25T10:46:26Z,19.029689,72.906041,13.3,44.6,Western Express Highway,Ward H-East,Asphalt Concrete,dusk,1,34.7,False
+rdd_train_0150,train,rdd_train_0150.jpg,2026-10-25T08:13:58Z,19.030601,72.905797,12.8,50.9,Western Express Highway,Ward H-East,Asphalt Concrete,wet,1,59.5,False
+rdd_train_0151,train,rdd_train_0151.jpg,2026-10-25T10:10:30Z,19.045887,72.887699,31.4,50.9,Western Express Highway,Ward H-East,Asphalt Concrete,overcast,2,67.3,False
+rdd_train_0152,train,rdd_train_0152.jpg,2026-10-25T13:46:18Z,19.046493,72.887632,26.6,39.4,SV Road Corridor,Ward K-West,Bituminous Macadam,wet,1,65.9,False
+rdd_train_0153,train,rdd_train_0153.jpg,2026-10-25T15:45:38Z,19.047623,72.888089,28.2,32.3,SV Road Corridor,Ward K-West,Bituminous Macadam,daylight,1,13.1,False
+rdd_train_0154,train,rdd_train_0154.jpg,2026-10-25T15:59:52Z,19.048255,72.888427,10.3,31.1,SV Road Corridor,Ward K-West,Bituminous Macadam,daylight,1,16.7,False
+rdd_train_0155,train,rdd_train_0155.jpg,2026-10-25T14:28:36Z,19.048904,72.888454,26.6,33.4,SV Road Corridor,Ward K-West,Bituminous Macadam,daylight,3,56.5,False
+rdd_train_0156,train,rdd_train_0156.jpg,2026-10-25T15:27:38Z,19.103184,72.847349,31.4,39.4,SV Road Corridor,Ward K-West,Bituminous Macadam,wet,1,44.3,False
+rdd_train_0157,train,rdd_train_0157.jpg,2026-10-25T16:08:20Z,19.104279,72.847201,31.5,34.3,Linking Road,Ward H-West,Bituminous Surface,dusk,1,57.7,False
+rdd_train_0158,train,rdd_train_0158.jpg,2026-10-25T08:34:31Z,19.105163,72.84762,20.7,23.9,Linking Road,Ward H-West,Bituminous Surface,wet,1,33.5,False
+rdd_train_0159,train,rdd_train_0159.jpg,2026-10-25T10:32:04Z,19.10618,72.847771,12.6,21.1,Linking Road,Ward H-West,Bituminous Surface,dusk,2,75.0,False
+rdd_val_0000,val,rdd_val_0000.jpg,2026-10-25T13:51:58Z,19.106646,72.8476,31.2,29.8,Linking Road,Ward H-West,Bituminous Surface,dusk,1,60.2,False
+rdd_val_0001,val,rdd_val_0001.jpg,2026-10-25T09:02:11Z,19.107676,72.847389,31.1,24.0,Linking Road,Ward H-West,Bituminous Surface,overcast,1,56.4,False
+rdd_val_0002,val,rdd_val_0002.jpg,2026-10-25T09:38:12Z,19.108387,72.847225,13.0,21.9,Linking Road,Ward H-West,Bituminous Surface,daylight,2,22.3,False
+rdd_val_0003,val,rdd_val_0003.jpg,2026-10-25T12:18:14Z,19.109123,72.847563,20.0,26.6,Linking Road,Ward H-West,Bituminous Surface,wet,2,44.5,False
+rdd_val_0004,val,rdd_val_0004.jpg,2026-10-25T16:16:01Z,19.109669,72.847696,25.5,20.5,Linking Road,Ward H-West,Bituminous Surface,overcast,1,36.2,False
+rdd_val_0005,val,rdd_val_0005.jpg,2026-10-25T10:03:02Z,19.110149,72.84753,14.7,19.7,Linking Road,Ward H-West,Bituminous Surface,overcast,1,26.9,False
+rdd_val_0006,val,rdd_val_0006.jpg,2026-10-25T09:09:18Z,19.041665,72.898654,19.8,28.8,Linking Road,Ward H-West,Bituminous Surface,overcast,1,60.4,False
+rdd_val_0007,val,rdd_val_0007.jpg,2026-10-25T15:32:13Z,19.042559,72.89888,9.1,35.6,LBS Marg Arterial,Ward S,Dense Bituminous,wet,1,38.6,False
+rdd_val_0008,val,rdd_val_0008.jpg,2026-10-25T12:03:39Z,19.043736,72.898973,22.8,35.0,LBS Marg Arterial,Ward S,Dense Bituminous,daylight,0,0.0,True
+rdd_val_0009,val,rdd_val_0009.jpg,2026-10-25T16:51:16Z,19.074686,72.908623,21.0,27.9,LBS Marg Arterial,Ward S,Dense Bituminous,overcast,2,50.5,False
+rdd_val_0010,val,rdd_val_0010.jpg,2026-10-25T14:31:36Z,19.075328,72.908845,22.9,27.5,Industrial Link Rd,Ward M-East,Flexible Pavement,overcast,2,32.1,False
+rdd_val_0011,val,rdd_val_0011.jpg,2026-10-25T13:04:39Z,19.076528,72.908625,12.1,21.0,Industrial Link Rd,Ward M-East,Flexible Pavement,overcast,2,81.4,False
+rdd_val_0012,val,rdd_val_0012.jpg,2026-10-25T14:22:15Z,19.077335,72.90911,27.0,18.5,Industrial Link Rd,Ward M-East,Flexible Pavement,dusk,3,68.7,False
+rdd_val_0013,val,rdd_val_0013.jpg,2026-10-25T13:59:25Z,19.078003,72.909535,21.2,26.9,Industrial Link Rd,Ward M-East,Flexible Pavement,dusk,0,0.0,True
+rdd_val_0014,val,rdd_val_0014.jpg,2026-10-25T17:54:13Z,19.079007,72.909513,24.8,29.3,Industrial Link Rd,Ward M-East,Flexible Pavement,daylight,2,71.0,False
+rdd_val_0015,val,rdd_val_0015.jpg,2026-10-25T16:28:45Z,19.07218,72.906865,27.6,14.8,Industrial Link Rd,Ward M-East,Flexible Pavement,overcast,1,61.9,False
+rdd_val_0016,val,rdd_val_0016.jpg,2026-10-25T13:30:50Z,19.073067,72.906944,25.6,46.3,Western Express Highway,Ward H-East,Asphalt Concrete,daylight,3,31.4,False
+rdd_val_0017,val,rdd_val_0017.jpg,2026-10-25T13:39:15Z,19.074032,72.906682,29.5,43.8,Western Express Highway,Ward H-East,Asphalt Concrete,daylight,1,65.1,False
+rdd_val_0018,val,rdd_val_0018.jpg,2026-10-25T10:30:10Z,19.075081,72.906911,17.3,43.8,Western Express Highway,Ward H-East,Asphalt Concrete,daylight,2,89.6,False
+rdd_val_0019,val,rdd_val_0019.jpg,2026-10-25T13:59:20Z,19.076186,72.907153,23.2,52.2,Western Express Highway,Ward H-East,Asphalt Concrete,overcast,0,0.0,True
+rdd_val_0020,val,rdd_val_0020.jpg,2026-10-25T16:08:21Z,19.076783,72.906864,14.4,43.0,Western Express Highway,Ward H-East,Asphalt Concrete,dusk,1,41.2,False
+rdd_val_0021,val,rdd_val_0021.jpg,2026-10-25T17:24:28Z,19.077526,72.907337,24.2,36.3,Western Express Highway,Ward H-East,Asphalt Concrete,dusk,2,81.4,False
+rdd_val_0022,val,rdd_val_0022.jpg,2026-10-25T13:57:05Z,19.078342,72.907488,18.1,47.1,Western Express Highway,Ward H-East,Asphalt Concrete,wet,3,94.9,False
+rdd_val_0023,val,rdd_val_0023.jpg,2026-10-25T15:39:59Z,19.079177,72.907509,15.5,49.1,Western Express Highway,Ward H-East,Asphalt Concrete,daylight,1,38.1,False
+rdd_val_0024,val,rdd_val_0024.jpg,2026-10-25T08:29:13Z,19.080064,72.907672,19.5,45.8,Western Express Highway,Ward H-East,Asphalt Concrete,daylight,1,66.5,False
+rdd_val_0025,val,rdd_val_0025.jpg,2026-10-25T15:24:17Z,19.080573,72.907865,21.0,54.7,Western Express Highway,Ward H-East,Asphalt Concrete,daylight,1,64.9,False
+rdd_val_0026,val,rdd_val_0026.jpg,2026-10-25T13:19:16Z,19.081147,72.90762,9.1,40.1,Western Express Highway,Ward H-East,Asphalt Concrete,daylight,2,48.8,False
+rdd_val_0027,val,rdd_val_0027.jpg,2026-10-25T17:23:24Z,19.082121,72.907797,16.3,44.1,Western Express Highway,Ward H-East,Asphalt Concrete,overcast,1,83.9,False
+rdd_val_0028,val,rdd_val_0028.jpg,2026-10-25T16:19:04Z,19.083053,72.907756,31.6,41.8,Western Express Highway,Ward H-East,Asphalt Concrete,wet,0,0.0,True
+rdd_val_0029,val,rdd_val_0029.jpg,2026-10-25T11:53:20Z,19.08367,72.9076,25.3,51.1,Western Express Highway,Ward H-East,Asphalt Concrete,wet,1,16.8,False
+rdd_val_0030,val,rdd_val_0030.jpg,2026-10-25T11:22:57Z,19.084098,72.907407,10.0,55.9,Western Express Highway,Ward H-East,Asphalt Concrete,daylight,0,0.0,True
+rdd_val_0031,val,rdd_val_0031.jpg,2026-10-25T16:40:25Z,19.085028,72.907726,13.0,45.2,Western Express Highway,Ward H-East,Asphalt Concrete,wet,0,0.0,True
+rdd_val_0032,val,rdd_val_0032.jpg,2026-10-25T13:34:16Z,19.085925,72.908166,17.7,49.3,Western Express Highway,Ward H-East,Asphalt Concrete,overcast,3,93.5,False
+rdd_val_0033,val,rdd_val_0033.jpg,2026-10-25T12:14:21Z,19.086352,72.907871,24.3,53.0,Western Express Highway,Ward H-East,Asphalt Concrete,overcast,1,61.2,False
+rdd_val_0034,val,rdd_val_0034.jpg,2026-10-25T15:10:27Z,19.086836,72.907871,30.3,49.2,Western Express Highway,Ward H-East,Asphalt Concrete,daylight,0,0.0,True
+rdd_val_0035,val,rdd_val_0035.jpg,2026-10-25T12:20:25Z,19.087288,72.908345,13.2,38.5,Western Express Highway,Ward H-East,Asphalt Concrete,daylight,3,26.4,False
+rdd_val_0036,val,rdd_val_0036.jpg,2026-10-25T17:25:06Z,19.088204,72.90865,26.5,52.3,Western Express Highway,Ward H-East,Asphalt Concrete,overcast,2,93.5,False
+rdd_val_0037,val,rdd_val_0037.jpg,2026-10-25T17:38:31Z,19.088942,72.90839,17.0,56.0,Western Express Highway,Ward H-East,Asphalt Concrete,dusk,1,75.0,False
+rdd_val_0038,val,rdd_val_0038.jpg,2026-10-25T15:37:38Z,19.08961,72.908741,24.2,60.7,Western Express Highway,Ward H-East,Asphalt Concrete,daylight,1,49.1,False
+rdd_val_0039,val,rdd_val_0039.jpg,2026-10-25T14:45:26Z,19.090805,72.909188,20.6,38.3,Western Express Highway,Ward H-East,Asphalt Concrete,daylight,1,87.6,False
