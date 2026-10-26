@@ -1,0 +1,22 @@
+{
+  "accuracy": 0.85,
+  "precision": 0.825,
+  "recall": 0.75,
+  "f1_score": 0.7857,
+  "roc_auc": 0.93,
+  "feature_importance": {
+    "road_cat_Arterial": 0.179,
+    "past_complaints_count": 0.1112,
+    "rainfall_last_30d_mm": 0.0983,
+    "pavement_age_years": 0.0978,
+    "drainage_proximity_m": 0.0914,
+    "heavy_vehicle_pct": 0.0873,
+    "traffic_pcu": 0.0796,
+    "recent_complaint_trend": 0.0654,
+    "past_repairs_count": 0.0646,
+    "peak_rain_intensity_mmh": 0.0544,
+    "road_slope_pct": 0.0304,
+    "road_cat_Collector": 0.0282,
+    "road_cat_Local": 0.0125
+  }
+}
